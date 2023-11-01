@@ -1,2 +1,2 @@
 # Statistical-Ananlysis-using-R
-Coursework. Includes gra[hical analysis, preproceessing, sampling, regression, etc.
+Coursework. Includes graphical analysis, data pre-proceessing, sampling, regression, etc.
